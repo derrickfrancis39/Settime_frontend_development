@@ -1,0 +1,1 @@
+# This is a file containing my first class as a proggrammer, encounter with github and gitbash
